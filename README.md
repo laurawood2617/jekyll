@@ -2,7 +2,7 @@
 
 Hi, my name is Laura and I am 23 years old, living in Leeds, UK.
 
-<img src='https://images.unsplash.com/photo-1529514498599-74ebec1ecc28?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80'</img>
+<img> src='https://images.unsplash.com/photo-1529514498599-74ebec1ecc28?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80'</img>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
