@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/laurawood2617/jekyll/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Laura and I am 23 years old, living in Leeds, UK.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
